@@ -1,0 +1,27 @@
+{
+  "engineRevision": "839a572a4cdecdb80d211297b8e7d7323a6e99d2",
+  "models": [
+    {
+      "id": "4b",
+      "repo": "unsloth/Qwen3.5-4B-GGUF",
+      "revision": "e87f176479d0855a907a41277aca2f8ee7a09523",
+      "filename": "Qwen3.5-4B-Q4_K_M.gguf",
+      "bytes": 2740937888,
+      "sha256": "00fe7986ff5f6b463e62455821146049db6f9313603938a70800d1fb69ef11a4",
+      "title": "Qwen3.5-4B",
+      "label": "快速",
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "9b",
+      "repo": "unsloth/Qwen3.5-9B-GGUF",
+      "revision": "3885219b6810b007914f3a7950a8d1b469d598a5",
+      "filename": "Qwen3.5-9B-Q4_K_M.gguf",
+      "bytes": 5680522464,
+      "sha256": "03b74727a860a56338e042c4420bb3f04b2fec5734175f4cb9fa853daf52b7e8",
+      "title": "Qwen3.5-9B",
+      "label": "高质量",
+      "license": "Apache-2.0"
+    }
+  ]
+}

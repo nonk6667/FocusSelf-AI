@@ -1,0 +1,32 @@
+node_modules/
+.next/
+out/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.env*
+!.env.example
+.DS_Store
+
+releases/
+android/.idea/
+*.jks
+*.keystore
+
+next-env.d.ts
+
+.native/
+*.gguf
+*.gguf.part
+android/app/.cxx/
+
+# Local editor metadata, generated copies and personal exports
+.openai/
+/out [0-9]*/
+/work/
+/backups/
+*.log
+focus-dashboard*.json
+focus-backup*.json
+*.pem
+*.p12

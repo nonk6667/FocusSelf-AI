@@ -1,0 +1,20 @@
+Focus local AI third-party notices
+
+llama.cpp / ggml
+https://github.com/ggml-org/llama.cpp
+Commit: 839a572a4cdecdb80d211297b8e7d7323a6e99d2
+MIT license: llama.cpp.txt
+
+Arm KleidiAI v1.31.0
+https://github.com/ARM-software/kleidiai
+Licenses: Apache-2.0.txt, KleidiAI-BSD-3-Clause.txt
+Source file SPDX notices retain the applicable license.
+
+Qwen3.5-4B and Qwen3.5-9B
+https://huggingface.co/Qwen/Qwen3.5-4B
+https://huggingface.co/Qwen/Qwen3.5-9B
+Apache License 2.0. Weights are imported separately, not bundled in the APK.
+Quantization publisher: https://huggingface.co/unsloth
+Pinned model sources and SHA-256 digests: /ai-models.json
+
+OllamaServer code and binaries are not included in this application.
